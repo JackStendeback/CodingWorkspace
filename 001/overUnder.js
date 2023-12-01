@@ -54,3 +54,10 @@ console.log(`Try to guess a number between ${minNumber} and ${maxNumber}.`);
 
 // * Calling the function to start the guessing game! Will finish and be exited once the correct number is input by the user.
 guessTheNumber();
+
+
+// TODO: These were Nate Master's two interview questions for Mastercard!!
+
+// ? iterate through a multi dimensional matrix, finding smallest number in each column and each row.
+
+// ? walking through a sql query and seeing what would be going through ineach part.
